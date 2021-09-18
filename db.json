@@ -1,0 +1,55 @@
+{
+  "login": {
+    "admin": false
+  },
+  "meetings": [
+    {
+      "name": "test",
+      "phone": "8889898937",
+      "email": "mail@mail.com",
+      "date": "2021-09-18",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "phone": "8889898937",
+      "email": "mail@mail.com",
+      "date": "2021-09-17",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "phone": "8889898937",
+      "email": "mail@mail.com",
+      "date": "2021-09-18",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "phone": "8889898937",
+      "email": "mail@mail.com",
+      "date": "2021-09-17",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "phone": "8889898937",
+      "email": "mail@mail.com",
+      "date": "2021-09-18",
+      "description": "testing",
+      "id": 1
+    },
+    {
+      "name": "Justin",
+      "phone": "2246003480",
+      "email": "jusohn2015@gmail.com",
+      "date": "2021-09-17",
+      "description": "project",
+      "id": 2
+    }
+  ]
+}

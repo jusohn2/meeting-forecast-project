@@ -1,0 +1,45 @@
+.login_contianer {
+    display: flex;
+    flex-direction: column;
+    width: 15em;
+    height: 2em;
+    margin-top: 5em;
+}
+.login_contianer > input {
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+.main_container {
+    margin-top: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logout {
+    width: 20em;
+    height: 3em;
+    font-size: 16px;
+    margin-bottom: 5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 0 0 20px gray;
+}
+
+.lp_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.lp_container > h3 {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.meeting_btn {
+    width: 30em;
+    height: 4em;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
